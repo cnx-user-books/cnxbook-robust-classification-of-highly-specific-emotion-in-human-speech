@@ -1,88 +1,28 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Kiefer Forseth ,John Cocjin ,TJ Sarkar ,Abeer Javed">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11465</md:content-id>
-  <md:title>Robust Classification of Highly-Specific Emotion in Human Speech</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>99c15d57-a9c7-4e33-9854-2a253cd2868d</md:uuid>
-<md:slug>robust-classification-of-highly-specific-emotion-in-human-speech</md:slug>
-</metadata>
-
+    <md:content-id>col11465</md:content-id>
+    <md:title>Robust Classification of Highly-Specific Emotion in Human Speech</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+    <md:language>en</md:language>
+    <md:uuid>99c15d57-a9c7-4e33-9854-2a253cd2868d</md:uuid>
+    <md:slug>robust-classification-of-highly-specific-emotion-in-human-speech</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m45346"/>
-        
-      
-    
-    
-      <col:module document="m45343"/>
-        
-      
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Algorithm Development</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m45347"/>
-        
-      
-    
-    
-      <col:module document="m45342"/>
-        
-      
-    
-    
-      <col:module document="m45345"/>
-        
-      
-    
-    
-      <col:module document="m45348"/>
-        
-      
-    
-    
-      <col:module document="m45350"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      <col:module document="m45349"/>
-        
-      
-    
-    
-      <col:module document="m45341"/>
-        
-      
-    
-    
-      <col:module document="m45344"/>
-        
-      
-    
+    <col:module document="m45346"/>
+    <col:module document="m45343"/>
+    <col:subcollection>
+      <md:title>Algorithm Development</md:title>
+      <col:content>
+        <col:module document="m45347"/>
+        <col:module document="m45342"/>
+        <col:module document="m45345"/>
+        <col:module document="m45348"/>
+        <col:module document="m45350"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m45349"/>
+    <col:module document="m45341"/>
+    <col:module document="m45344"/>
   </col:content>
 </col:collection>
